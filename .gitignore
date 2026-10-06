@@ -1,0 +1,30 @@
+# Workspace / IDE metadata
+.metadata/
+.settings/
+.cache/
+
+# IAR EWARM build and user files
+Debug/
+Release/
+settings/
+*.dep
+*.browse
+*.pbi
+*.pbd
+*.ewt
+
+# STM32CubeIDE / Keil / General Embedded build outputs
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.elf
+*.bin
+*.hex
+*.lst
+*.build_log.htm
+
+# OS generated files
+Thumbs.db
+.DS_Store
